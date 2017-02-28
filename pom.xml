@@ -7,7 +7,7 @@
     <groupId>com.ravlinko.concordion.extension</groupId>
     <artifactId>concordion-codemirror-extension</artifactId>
     <packaging>jar</packaging>
-    <version>0.0.0</version>
+    <version>0.0.1</version>
 
     <developers>
         <developer>
